@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bigpony.json"
+hash = "3b810bc11a8ec76dde22af114bfdd11765fd219867daf0f8ff9694f74220c1ac"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
@@ -180,6 +184,11 @@ hash = "936625a75a4e6100cce6ce3fe4a5ff89cc7771620c7d2870b2054a5c1411a4b0"
 metafile = true
 
 [[files]]
+file = "mods/hd-skins.pw.toml"
+hash = "71aa5f6a5d37b413e99d8279efd10c8bb27862a1e6b4b2ec13ff41c4c6db7af8"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "9a2f80adb3ee17c60a6ec5e0bb8800aa37345655fcba54cfd2f9da5e768b9887"
 metafile = true
@@ -250,6 +259,11 @@ hash = "ffe14d0a140f7503edf3eb3137a33b503a4934e0f7d36247bd679c169f6dac37"
 metafile = true
 
 [[files]]
+file = "mods/mine-little-pony.pw.toml"
+hash = "1e251a6f30b257f454c5514d6aa870d85792510a2ada4ce545d6a046512c0f53"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
@@ -316,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c666fc96c45a5883f658d269cedf4f251086955d1db4aa67a1d77c5944bd55ac"
+hash = "6e935da67eb7e33c33d94d0c820a12a44a363c613b88fb6919a9d1b21e9cabfa"
 metafile = true
 
 [[files]]

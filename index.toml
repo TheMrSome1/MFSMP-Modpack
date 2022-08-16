@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/galosphere.pw.toml"
-hash = "ae6bcfc54b6c7bb0cee03bd2355789842d2e47aa1a694361be17f3d37ee1a091"
+hash = "a573b27f52fdf9fd4f170534412b5eecea944d227044058ef72cee024d92e8db"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "aabdcd40db10deb10ce96faa77e700d9b4e673909abc1ca87b1da4792975c285"
+hash = "311108c7e97b3a252f14c6d2c0ff3cddd8fcf865f22a5201c918939a08a111e7"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c666fc96c45a5883f658d269cedf4f251086955d1db4aa67a1d77c5944bd55ac"
+hash = "6e935da67eb7e33c33d94d0c820a12a44a363c613b88fb6919a9d1b21e9cabfa"
 metafile = true
 
 [[files]]

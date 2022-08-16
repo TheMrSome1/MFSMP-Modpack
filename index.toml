@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bigpony.json"
-hash = "3b810bc11a8ec76dde22af114bfdd11765fd219867daf0f8ff9694f74220c1ac"
+hash = "5117ac1ec3f9675cf2659bf727326e255057729562795e865e034a966b26d6e5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

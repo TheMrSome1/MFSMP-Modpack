@@ -1,5 +1,5 @@
 {
-  "allowhitboxchanges": true,
+  "allowhitboxchanges": false,
   "allowcamerachanges": true,
   "allowfreeformresizing": false,
   "scale": {

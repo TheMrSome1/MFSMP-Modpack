@@ -209,11 +209,6 @@ hash = "e9158e06a0563641b8bcf990fa789f0d30d896bc3a72522b048d3f0217c69e1b"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "3007e9818d46b3cc72d4ec3abc8ff0f4253ba0842305a7dc47b28c34f1c194af"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "a7a83d71328dafc2b47e734dfd4d45f381ddbcdf46f00fafb63efb4a3a8c5486"
 metafile = true
@@ -316,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "42abdbed7d95a19514c9f020eb8a912b0c78e1064da95e0881d32a2ee07118b6"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "e41dfef4a01d34841453ebfe31c7af85eddf807826cc8885fe9253709dd5a813"
 metafile = true
 
 [[files]]

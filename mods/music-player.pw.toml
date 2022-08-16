@@ -1,0 +1,13 @@
+name = "Music Player"
+filename = "music_player-fabric-1.19-2.4.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96b5008eb6ec26450877d4bcaba762626fe02c15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3865883
+project-id = 294574

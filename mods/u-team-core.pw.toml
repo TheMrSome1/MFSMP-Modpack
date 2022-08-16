@@ -1,0 +1,13 @@
+name = "U Team Core"
+filename = "u_team_core-fabric-1.19-4.0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56719c14739589f29735edb90cd16d557a535e30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3843175
+project-id = 273744

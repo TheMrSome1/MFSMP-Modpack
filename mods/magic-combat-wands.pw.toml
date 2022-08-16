@@ -1,0 +1,13 @@
+name = "Magic Combat Wands"
+filename = "magiccombatwands-fabric.1.19-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d38c10b1a419d4fb22a7f528aadd0be98f87fbcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835539
+project-id = 534351

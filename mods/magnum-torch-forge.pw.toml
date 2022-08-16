@@ -1,0 +1,13 @@
+name = "Magnum Torch"
+filename = "MagnumTorch-v4.0.1-1.19-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02a45d8568af01d4a47a2293ad33eec2906088ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3873595
+project-id = 593981

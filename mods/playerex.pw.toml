@@ -1,0 +1,13 @@
+name = "PlayerEx"
+filename = "playerex-3.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5GUN4b1/versions/3.3.4/playerex-3.3.4.jar"
+hash-format = "sha1"
+hash = "03bc2f5f4e055100a64cab666ee331d294bb65bd"
+
+[update]
+[update.modrinth]
+mod-id = "o5GUN4b1"
+version = "Rio90CQe"

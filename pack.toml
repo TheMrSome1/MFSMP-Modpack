@@ -1,0 +1,13 @@
+name = "Modded Faction SMP"
+author = "Eth"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d24babc5566c1eab5fa3550323fb54ca0fe78f1ba38f22a62cd042323aa71d94"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19"

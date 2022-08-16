@@ -1,0 +1,13 @@
+name = "RpgDifficulty"
+filename = "rpgdifficulty-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "080462eb64840124bb0eb90b336cfc74bc8c9dd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3843929
+project-id = 480786

@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6e935da67eb7e33c33d94d0c820a12a44a363c613b88fb6919a9d1b21e9cabfa"
+hash = "687447bbade95c445a7c413271c1b14473b5c633de055f6d727ab23f621b8fb4"
 metafile = true
 
 [[files]]

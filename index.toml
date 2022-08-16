@@ -61,6 +61,11 @@ hash = "42a1922956c0640656c437853b5160f32ad9603b8f38dbcf23ac357b71aafee8"
 metafile = true
 
 [[files]]
+file = "mods/big-pony.pw.toml"
+hash = "772e023a8b657034dff279a54e852adf8dca2a1498151020e55bca0a5791b31e"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "69fbd5258464b60fda1da6530dd036433833e3f1a02984c2c46a660e3ce8085f"
 metafile = true

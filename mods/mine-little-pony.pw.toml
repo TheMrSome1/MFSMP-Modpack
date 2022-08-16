@@ -1,0 +1,17 @@
+name = "Mine Little Pony"
+filename = "minelittlepony-4.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JBjInUXM/versions/4.6.1/minelittlepony-4.6.1.jar"
+hash-format = "sha1"
+hash = "8aba9695b6d5a79ec30ec384acf36fd5f4f6d798"
+
+[update]
+[update.modrinth]
+mod-id = "JBjInUXM"
+version = "vkMqXKdf"
+
+[option]
+optional = true
+description = "pony pony pony pony pony pony pony"

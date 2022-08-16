@@ -1,0 +1,17 @@
+name = "HD Skins"
+filename = "hdskins-6.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzE9gshV/versions/6.6.1/hdskins-6.6.1.jar"
+hash-format = "sha1"
+hash = "b14151ec127104af144c65f7e9ea5b460b53a0e3"
+
+[update]
+[update.modrinth]
+mod-id = "FzE9gshV"
+version = "YJEeGTjA"
+
+[option]
+optional = true
+description = "custom skin server mostly used with mine little pony"
